@@ -61,7 +61,7 @@ const MainMint = ({ accounts, setAccounts }) => {
               />
               <Text marginLeft="12px" fontSize="18px">
                 
-                (80000 - 1300000)
+                (8001 - 1316005)
                 </Text>
             </Flex>
 
